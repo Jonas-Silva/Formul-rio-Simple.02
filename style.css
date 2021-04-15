@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;   
+}
+body{
+    background: rgba(0, 0, 0, 0.849);
+    text-align: center;
+    padding: 70px;
+}
+form h1{
+    color: rgba(0, 0, 0, 0.74);
+    text-shadow: 2px 2px 5px gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#formulario {
+    padding: 20px;
+}
+#nome {
+    width: 400px;
+    padding: 12px;
+    box-shadow: 2px 2px 2px 2px rgba(128, 128, 128, 0.767);
+    border: none;
+}
+#email {
+    width: 400px;
+    padding: 12px;
+    box-shadow: 2px 2px 2px 2px rgba(128, 128, 128, 0.767);
+    border: none;
+    
+}
+#senha {
+    width: 400px;
+    padding: 12px;
+    box-shadow: 2px 2px 2px 2px rgba(128, 128, 128, 0.767);
+    border: none;
+}
+.form-group {
+    padding: 6px;
+}
+#btn {
+    width: 400px;
+    padding: 12px;
+    background-color: rgb(74, 74, 230);
+    color: white;
+    box-shadow: 1px 1px 1px rgba(128, 128, 128, 0.767);
+    border: none;
+}
+.card{
+    background-color: white;
+    width: 700px;
+    padding: 50px;
+    margin: auto;
+    border-top-left-radius: 3vmax;
+    border-bottom-right-radius: 3vmax;
+}
+form a {
+    text-decoration: none;
+}
